@@ -29,3 +29,5 @@ Siga os passos abaixo para rodar o projeto localmente:
 Pré-requisitos
 Navegador web moderno (Google Chrome, Firefox, Safari, etc.).
 Editor de código (como VS Code) para visualizar ou editar os arquivos.
+
+Aproveite bastante!!!
