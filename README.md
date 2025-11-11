@@ -20,7 +20,9 @@ Google Fonts: Fontes Krona One e Montserrat para tipografia moderna.
 GitHub Pages: Hospedagem da página (caso aplicável).
 
 📷 Visualização
-(Insira uma captura de tela do seu portfólio aqui, se desejar. Você pode usar ferramentas como o GitHub para hospedar imagens.)
+## 📷 Visualização
+
+![Prévia do Portfólio](portfolio-preview.png)
 
 🚀 Como Executar o Projeto
 
